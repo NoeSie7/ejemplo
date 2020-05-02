@@ -1,0 +1,99 @@
+{
+    "AppTitle": "Casa Rural Tamaide",
+    "Bienvenida" : "Bienvenidos a Casa Rural Tamaide",
+    "escoja": "Escoja una casa:",
+    "ubicacion": "Ubicación",
+    "alrededores": "Alrededores del alojamiento",
+    "Idiomtitle": "Idiomas:",
+    "Name": "NOmbre",
+    "NameError": "tienes que tener un nombre",
+    "Email": "Direcion de mail",
+    "PhoneNo": "Numero de telefono",
+    "Password": "Contraseña",
+    "Bio": "Introduzca bio",
+    "TermsConditions": "Estoy de acuerdo con los terminos de conidiciones.",
+    "Submit": "Suscribir",
+    "llegar": {
+        "avion": "Avión",
+        "coche": "Coche",
+        "guagua": "Guagua",
+        "cocheex": {
+            "1": "En la autopista, coger la salida en dirección a los Cristianos. La siguiente salida a 1 Km de distancia es Chafiras, San Miguel de Abona, desviarse y subir en dirección a San Miguel como unos 10 Km",
+            "2": "Una vez en el centro de San Miguel se encontrarán con la farmacia, coger a la izquierda y a 1,5 Km te encontraras situado en el barrio de Tamaide",
+            "3": "La calle es Concepción Garcia Suarez nº1"
+        },
+        "guaguaex": {
+            "1": "Coger linea 111 dirección Santa Cruz, hasta San isidro que es la siguiente parada",
+            "2": "Coger posteriormente linea 408 direción Granadilla de Abona, llegar hasta el fin de la linea",
+            "3": "Coger linea 416 y bajarse en San Miguel de Abona, parada Tamaide"
+        }
+    },
+    "button": {
+        "reservaYa": "Haz tu Reserva Ahora!",
+        "reservaAhora": "Reserva Ahora"
+    },
+    "navbar": {
+        "comollegar": "¿Cómo Llegar?",
+        "sitiosInteres": "Lugares de interés",
+        "quienesSomos": "¿Quiénes Somos?",
+        "contactanos": "Contáctanos"
+    },
+    "casa": {
+        "precios": "Precio",
+        "noche": "Noche",
+        "habitacion": "Hab.",
+        "camas": "Camas",
+        "servicio": "Servicios",
+        "info": "Información turística",
+        "canales": "Canales Via Satélite",
+        "aire": "Aire Acondicionado",
+        "exterior": "Exteriores",
+        "terraza": "Terraza / Solarium",
+        "vistamar": "Vistas al mar",
+        "vistamontania": "Vista a la montaña",
+        "cocina": "Cocina",
+        "lavadora": "Lavadora",
+        "nevera": "Nevera",
+        "cafetera": "Cafetera",
+        "tostadora": "Tostadora",
+        "microondas": "Microondas",
+        "utensilios": "Utensilios de Cocina",
+        "fogones": "Fogones",
+        "bano": "Baño",
+        "banopri": "Baño privado",
+        "banera": "Bañera",
+        "zonaEstar": "Zona de Estar",
+        "sofa": "Sofá"
+    },
+    "sitios":{
+        "entornos": "ENTORNOS",
+        "comercios": "COMERCIOS",
+        "aero": "AEROPUERTOS Y PUERTOS MÁS CERCANOS",
+        "ocio": "OCIO",
+        "rutas": "RUTAS O SENDEROS"
+    },
+    "formulario":{
+        "titulo": "Formulario de Reserva",
+        "nombre": "Nombre:",
+        "nombrer": "Se requiere de un nombre",
+        "asunto": "Asunto:",
+        "asuntor": "Se requiere de un asunto",
+        "casa": "Casa:",
+        "casar": "Escoja una casa",
+        "seleccioneCasa": "--- Seleccione una Casa ---",
+        "fechaInicio": "Fecha Inicio:",
+        "fechaInicior": "Fecha de Inicio es necesaria",
+        "fechaFin": "Fecha Fin:",
+        "fechaFinr": "Fecha Fin es necesaria",
+        "email": "Su Email:",
+        "emailr": "Es necesario su email",
+        "opcional": "(*) Opcional, Mensaje:",
+        "enviar": "Enviar"
+    },
+    "descripcion": {
+        "1": "Las casas del establecimiento Casa Rural Tamaide ofrecen vistas al mar y a las montañas y se encuentran justo a las afueras de San Miguel de Abona, a menos de 20 minutos en coche del aeropuerto de Tenerife Sur. El establecimiento cuenta además con terrazas amuebladas compartidas con sombrillas y hamacas.",
+        "2": "Las casas de estilo rústico están ubicadas en un establecimiento renovado del siglo XVII y cuentan con salón con sofá y TV vía satélite, zona de cocina con microondas y fogones y lavadora.",
+        "3": "La Casa Rural Tamaide está situada en una zona tranquila y goza de fácil acceso desde la autopista del Sur. También está cerca de San Miguel, que cuenta con varias tiendas y restaurantes.",
+        "4": "Las casas ofrecen vistas a la costa y están a unos 18 km de la playa de Médano y a unos 20 minutos en coche del campo de golf Sur."
+    }
+}

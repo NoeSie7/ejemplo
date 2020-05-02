@@ -1,0 +1,103 @@
+{
+    "AppTitle": "Rural House Tamaide",
+    "Bienvenida" : "Welcome to Rural House Tamaide",
+    "escoja": "Choose a house:",
+    "ubicacion": "Location",
+    "alrededores": "Surroundings of the Accommodation",
+    "Idiomtitle": "Languages:",
+    "Name": "Name",
+    "NameError": "I am sure you must have a name!",
+    "Email": "Email address",
+    "PhoneNo": "Phone No",
+    "Password": "Password",
+    "Bio": "Enter bio",
+    "TermsConditions": "I agree to terms and conditions.",
+    "Submit": "Submit",
+    "llegar": {
+        "avion": "Plane",
+        "coche": "Car",
+        "guagua": "Bus",
+        "cocheex": {
+            "1": "On the highway, take the exit towards Los Cristianos. The next exit 1 km away is Chafiras, San Miguel de Abona, deviate and go up towards San Miguel for about 10 km.",
+            "2": "Once in the center of San Miguel you will find the pharmacy, take a left and 1.5 km you will be located in the Tamaide neighborhood.",
+            "3": "The street is Concepción Garcia Suarez nº1"
+        },
+        "guaguaex": {
+            "1": "Take line 111 towards Santa Cruz, until San isidro which is the next stop.",
+            "2": "Then take line 408 towards Granadilla de Abona, reach the end of the line.",
+            "3": "Take line 416 and get off at San Miguel de Abona, Tamaide stop."
+        }
+    },
+    "button": {
+        "reservaYa": "Make your Reservation!",
+        "reservaAhora": "Reserve Now"
+    },
+    "navbar": {
+        "comollegar": "How to get?",
+        "sitiosInteres": "Places of Interest",
+        "quienesSomos": "About us?",
+        "contactanos": "Contact us"
+    },
+    "casa": {
+        "precios": "Price",
+        "noche": "Night",
+        "habitacion": "Room",
+        "camas": "Beds",
+        "servicio": "Services",
+        "info": "Tourist Information",
+        "canales": "Channels Via Satellite",
+        "aire": "Air Conditioning",
+        "exterior": "Outdoor",
+        "terraza": "Terrace / Solarium",
+        "vistamar": "Sea views",
+        "vistamontania": "Moutain views",
+        "cocina": "Kitchen",
+        "lavadora": "Washing Machine",
+        "nevera": "Fridge",
+        "cafetera": "Coffee maker",
+        "tostadora": "Toaster",
+        "microondas": "Microwave",
+        "utensilios": "Cookware",
+        "fogones": "Stoves",
+        "bano": "Bathroom",
+        "banopri": "Private bathroom",
+        "banera": "Bathtub",
+        "zonaEstar": "Sitting Area",
+        "sofa": "Couch"
+    },
+    "sitios":{
+        "entornos": "ENVIRONMENT",
+        "comercios": "SHOPS",
+        "aero": "NEAREST AIRPORTS AND PORTS",
+        "ocio": "LEISURE",
+        "rutas": "ROUTES OR TRAILS"
+    },
+    "formulario":{
+        "titulo": "Booking Form",
+        "nombre": "Name:",
+        "nombrer": "Name is required",
+        "asunto": "Issue:",
+        "asuntor": "Issue is required",
+        "casa": "House:",
+        "casar": "Choose a House",
+        "seleccioneCasa": "--- Choose a House ---",
+        "fechaInicio": "Start Date:",
+        "fechaInicior": "Start Date is required",
+        "fechaFin": "End date:",
+        "fechaFinr": "End Date is required",
+        "email": "Your Email:",
+        "emailr": "Your Email is required",
+        "opcional": "(*) Opcional, Message:",
+        "enviar": "Send"
+    },
+    "descripcion": {
+        "1": "Offering sea and mountain views, the Casa Rural Tamaide houses are situated just outside of San Miguel de Abona and less than 20-minutes’ drive from Tenerife’s South Airport. The shared furnished terraces feature parasols and hammocks.",
+        "2": "Set in a restored 17th-century property, the rustic houses include lounges with sofas and satellite TV, as well as kitchenettes equipped with a microwave and hob. Each one also has a washing machine.",
+        "3": "Casa Rural Tamaide is set in a peaceful area which is easily accessible from the Autopista del Sur Motorway. It has shops and restaurants close by in San Miguel.",
+        "4": "You can see the coast from the houses, and Médano Beach is around 18 km away. The Sur Golf Course is also nearby, at around a 20-minute drive."
+    }
+
+    
+
+    
+}
